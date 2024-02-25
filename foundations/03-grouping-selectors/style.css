@@ -5,11 +5,11 @@
 }
 
 .button-primary {
-    background: black;
+    background-color: black;
     color: white;
     font-weight: 700;
 }
 
 .button-secondary {
-    background: yellow;
+    background-color: yellow;
 }
